@@ -1,0 +1,20 @@
+.row {
+	padding: 20px;
+}
+
+.titulo {
+	text-align: center;
+}
+
+ul li {
+	list-style: none;
+}
+
+ul {
+	border: 2px dotted black;
+	margin: 10px;
+}
+
+li {
+	margin: 20px;
+}
